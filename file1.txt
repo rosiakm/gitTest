@@ -1,2 +1,0 @@
-This is 1 version of file1.
-Change in file 1.
